@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MUHAMMADARIFWICAKSONO_1202154205_STUDYCASE4</string>
+    <string-array name="namaa">
+        <item>Paulo Dybala</item>
+        <item>Paul Pogba</item>
+        <item>Paulo Maldini</item>
+        <item>Wayne Rooney</item>
+        <item>David Beckham</item>
+        <item>Alexis Sanchez</item>
+        <item>Valentino Rossi</item>
+        <item>Mark Marquez</item>
+        <item>Ronaldinho</item>
+
+
+    </string-array>
+</resources>
